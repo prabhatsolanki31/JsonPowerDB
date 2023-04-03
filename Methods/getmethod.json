@@ -1,0 +1,12 @@
+{
+    "token": "90932910|-31949282297682953|90948077",
+    "cmd": "PUT",
+    "dbName": "Employee",
+    "rel": "Emp-Rel",
+    "jsonStr": {
+        "id": "3",
+        "name": "Himani101",
+        "email": "Himani101@gmail.com",
+        "mobileno": "9987654562"
+    }
+}

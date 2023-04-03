@@ -1,0 +1,12 @@
+{
+    "token": "90932910|-31949282297682953|90948077",
+    "cmd": "PUT",
+    "dbName": "Student",
+    "rel": "Student-Rel",
+    "jsonStr": {
+        "id": "2",
+        "name": "Prabhat",
+        "email": "prabhat@gmail.com",
+        "mobileno": "9987654332"
+    }
+}
